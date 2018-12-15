@@ -100,7 +100,7 @@ def play_again():
 #Error check to make sure user does not enter a string
 #Return: integer that will be the number of players
 #        playing the game.
-#        Note: we recall recursively if there is an error.
+#Note: we recall recursively if there is an error.
 def get_number_of_players():
     while True:
         # Return the number of players.
