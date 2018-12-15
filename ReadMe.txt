@@ -5,11 +5,11 @@ Description:
 	The program is fairly straight forward.
 	The program is completed as well (no more updates).
 
-	IMPORTANT NOTE:
-		Do NOT move the sound folder's location or
-		the sounds inside of it (unless you want to replace them).
+IMPORTANT NOTE:
+	Do NOT move the sound folder's location or
+	the sounds inside of it (unless you want to replace them).
 
-Language:
+Programming Language:
 	Python2
 
 Requirements:
@@ -19,8 +19,8 @@ Requirements:
 				(pip install pyttsx)
 		pygame: Used for sound.
 				(pip install pygame)
-	Platforms:
-		Windows 7, 10
-		MacOS
-		Linux
-		Android
+Platforms:
+	Windows 7, 10
+	MacOS
+	Linux
+	Android
